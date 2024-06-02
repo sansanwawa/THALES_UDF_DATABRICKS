@@ -16,6 +16,8 @@ First, you need to setup below parameters that communicate to Thales CipherTrust
 You can edit file `CryptoUtils.java` (it is on `lib/src/main/java/com/thales/id/jakarta/cadp/lib/demo/utils`'s folder) to adjust base on your requirement.
 The UDF class is under package `com.thales.id.jakarta.cadp.lib.demo.udf.fpe.*` 
 
+Currently, this library that i created is supported only for Alphanumeric and Numeric function, and here is the classes.
+
 
 > # ALPHANUMERIC
 
